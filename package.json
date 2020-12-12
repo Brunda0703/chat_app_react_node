@@ -13,7 +13,7 @@
     "frontend": "npm start --prefix client",
     "dev": "start npm run backend && start npm run frontend"
   },
-  "author": "John ahn",
+  "author": "Brunda",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
