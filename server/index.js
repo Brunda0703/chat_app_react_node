@@ -5,7 +5,7 @@ const cookieParser = require("cookie-parser");
 
 
 const path = require("path");
-var server = app.listen(process.env.PORT || 3000);
+var server = app.listen(process.env.PORT || 5000);
 const io = require("socket.io")(server);
 const config = require("./config/key");
 
